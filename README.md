@@ -1,13 +1,13 @@
-# github-profile-summary-cards-example
+# Hello World!
+I’m Ankita, and welcome to my coding corner! 🚀 \
+I am Master's graduate in Embedded System Engineering with specialization in AI. I enjoy blending math and code to tackle challenges in autonomous systems. Whether it’s getting vehicles to localize themselves or perfecting trajectory tracking, I’m all about turning complex problems into elegant solutions.
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+If it’s about making machines smarter and the world more automated, count me in!
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+Let’s connect, create, and push the boundaries of autonomy together! 🚗🤖💡
 
-```To create your profile README you need to name the repo as your username```
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 [![](https://raw.githubusercontent.com/AnkitaPawar024/AnkitaPawar/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/AnkitaPawar024/AnkitaPawar/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnkitaPawar024/AnkitaPawar/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
